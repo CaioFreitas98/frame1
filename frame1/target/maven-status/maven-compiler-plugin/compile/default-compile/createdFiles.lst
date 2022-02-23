@@ -1,0 +1,5 @@
+br\edu\ifms\frame1\service\UserService.class
+br\edu\ifms\frame1\Frame1Application.class
+br\edu\ifms\frame1\repository\UserRepository.class
+br\edu\ifms\frame1\controller\UserController.class
+br\edu\ifms\frame1\model\User.class
